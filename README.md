@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**My name is Matheus Mariani and I'm studying systems analysis and development 💻.**
+**My name is Matheus Miriani and I'm studying systems analysis and development 💻.**
 
 **I'm currently looking for a corner in this world of technologies in companies, with some languages that I'm studying in parallel with college, which is:**
 
