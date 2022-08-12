@@ -10,9 +10,11 @@
 </p>
 
 ### How to reach me:
+
   [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmiriani08@gmail.com?subject=Hello)
   [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/matheus-miriani-a05b26215/)
-
+  
+## 
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=mathelsz&show_icons=true&theme=dark"/>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathelsz&layout=compact&theme=dark"/>
